@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi! Eu sou a Ana Elisa. 👩‍💻
 
 <!--
 **anaelisaramos/anaelisaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 Hoje curso Engenharia de Software na UnB
+- 📖 Estou me aprofundando em HTML, CSS e Java Script
+- 🅰️ Treino a criação de projetos Angular
+
