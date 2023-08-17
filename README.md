@@ -1,4 +1,5 @@
 ### Oi! Eu sou a Ana Elisa. 👩‍💻
+Seja bem vindo(a) ao meu mundo! Aqui estamos em _constante construção._ 🌍
 
 <!--
 **anaelisaramos/anaelisaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Hoje curso Engenharia de Software na UnB
-- 📖 Estou me aprofundando em HTML, CSS e Java Script
-- 🅰️ Treino a criação de projetos Angular
+- 🎓 Hoje curso **Engenharia de Software** na UnB 
+- 🌱 Estou me aprofundando em `HTML`, `CSS` e `Java Script`
+- 📖 Treino a criação de projetos Angular e Nest.js
 
