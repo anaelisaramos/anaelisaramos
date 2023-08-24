@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0225.gif" border="0" alt="linha-divisoria-imagem-animada-0225" /></a>
 </div>
 
-<div align="center">
-<img width="400px" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelisaramos&layout=compact&langs_count=7&theme=dracula"/>
-<img width="450px" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anaelisaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div width="100%" align="center">
+<img width="40%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelisaramos&layout=compact&langs_count=7&theme=dracula"/>
+<img width="50%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anaelisaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 
