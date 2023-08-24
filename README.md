@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=220px/>
 
 ### Hello, world! Eu sou a Ana Elisa. 👩‍💻
 Seja bem vindo(a) ao meu mundo.🌍 Aqui estamos em _constante construção!_ 
@@ -25,15 +26,17 @@ Here are some ideas to get you started:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15px"/>
           
 - 📖 Treino a criação de projetos Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width='20px'/> e Nest.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="20px"/>
-          
 
-<div>
-  <div>
-<a href="https://github.com/anaelisaramos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelisaramos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anaelisaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
-  <img src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=250px/>
+<div align="center">
+<a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0225.gif" border="0" alt="linha-divisoria-imagem-animada-0225" /></a>
 </div>
+
+<div align="center">
+<img width="400px" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelisaramos&layout=compact&langs_count=7&theme=dracula"/>
+<img width="450px" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anaelisaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+    
+
+
 
 
