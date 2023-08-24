@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 Estou me aprofundando em `HTML`, `CSS` e `Java Script`
 - 📖 Treino a criação de projetos Angular e Nest.js
 
-<img src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=20px/>
+<img src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=50px/>
