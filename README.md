@@ -1,6 +1,6 @@
 
-### Oi! Eu sou a Ana Elisa. 👩‍💻
-Seja bem vindo(a) ao meu mundo! Aqui estamos em _constante construção._ 🌍
+### Hello, world! Eu sou a Ana Elisa. 👩‍💻
+Seja bem vindo(a) ao meu mundo.🌍 Aqui estamos em _constante construção!_ 
 
 <!--
 **anaelisaramos/anaelisaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
