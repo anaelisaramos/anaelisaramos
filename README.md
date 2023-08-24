@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Estou me aprofundando em `HTML`, `CSS` e `Java Script`
 - 📖 Treino a criação de projetos Angular e Nest.js
 
-<div style="position: absolute; top: 20px; border: 1px solid red">
+<div align="center">
   <img src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=250px/>
 </div>
 
