@@ -1,4 +1,4 @@
-<div>
+<div style="border: 1px solid black">
 ### Oi! Eu sou a Ana Elisa. 👩‍💻
 Seja bem vindo(a) ao meu mundo! Aqui estamos em _constante construção._ 🌍
 
