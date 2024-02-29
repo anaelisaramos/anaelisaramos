@@ -18,14 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Hoje curso **Engenharia de Software** na UnB 
-- 🌱 Estou me aprofundando em `HTML`
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15px"/>,  `CSS` 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15px"/>
-            e `Java Script` 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15px"/>
-          
-- 📖 Treino a criação de projetos Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width='20px'/> e Nest.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="20px"/>
+- 🎓 Hoje curso **Engenharia de Software** na Uiversidade de Brasília.
+- 🌱 Utilizo diariamente `HTML`,  `CSS`, `Type Script` e `SQL`         
+- 📖 Estou em contato com `Angular` e `Nest.js`!
 
 <div align="center">
 <a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0225.gif" border="0" alt="linha-divisoria-imagem-animada-0225" /></a>
