@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=220px/>
 
 ### Hello, world! Eu sou a Ana Elisa. 👩‍💻
-Seja bem vindo(a) ao meu mundo.🌍 Aqui estamos em _constante construção!_ 
+Seja bem vindo ao meu mundo.🌍 Aqui estamos em _constante construção!_ 
 
 <!--
 **anaelisaramos/anaelisaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
