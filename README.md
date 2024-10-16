@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 Hoje curso **Engenharia de Software** na Universidade de Brasília.
 - 🌱 Utilizo diariamente `HTML`,  `CSS`, `Java Script`, `Type Script` e `SQL`         
-- ✨ Estou em contato com `Angular`, `Nest.js`, `Botpress`
+- ✨ Estou em contato com `Angular`, `Nest.js`, `TypeOrm`, `Botpress`, `Postgres`, `Redis`, e muito mais...
 - 📖 Aprendendo atualmente: `Linguagem C`
 
 <div align="center">
