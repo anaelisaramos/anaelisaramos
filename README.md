@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About me
+### About me
 - 🎓 Hoje curso **Engenharia de Software** na Universidade de Brasília.
 - 🌱 Utilizo diariamente `HTML`,  `CSS`, `Java Script`, `Type Script` e `SQL`         
 - ✨ Estou em contato com `Angular`, `Nest.js`, `TypeOrm`, `Botpress`, `Postgres`, `Redis`, e muito mais...
