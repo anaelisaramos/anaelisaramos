@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Hoje curso **Engenharia de Software** na Uiversidade de Brasília.
-- 🌱 Utilizo diariamente `HTML`,  `CSS`, `Type Script` e `SQL`         
-- 📖 Estou em contato com `Angular` e `Nest.js`!
+- 🎓 Hoje curso **Engenharia de Software** na Universidade de Brasília.
+- 🌱 Utilizo diariamente `HTML`,  `CSS`, `Java Script`, `Type Script` e `SQL`         
+- ✨ Estou em contato com `Angular`, `Nest.js`, `Botpress`
+- 📖 Aprendendo atualmente: `Linguagem C`
 
 <div align="center">
 <a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0225.gif" border="0" alt="linha-divisoria-imagem-animada-0225" /></a>
