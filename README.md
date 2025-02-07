@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=220px/>
 
-## Hello, world! I'm Ana Elisa. 👩‍💻
-Welcome to my world.🌍 Here, we are in constant evolution.!_ 
+## Hello, world! I'm Ana Elisa Ramos. 👩‍💻
+Welcome to my world.🌍 Here, we are in _constant evolution!_ 
 
 <!--
 **anaelisaramos/anaelisaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 ### About me
 - 🎓 I'm studying Software Engineering at Universidade de Brasília.
+- 🧬 Bioinformatics is my current fascination
 - 🤍 I love cheesecake!
 
 ### What I am doing
 🌱 I code daily in HTML, CSS, JavaScript, TypeScript, and SQL.
 ✨ I'm working with Angular, Nest.js, TypeORM, Botpress, Postgres, Redis, and much more...
-📖 Currently learning: C Language, Flutter, Dart.
+📖 Currently learning: RabbitMq, Vue.js, Vite.js, Django.py
 
 <div align="center">
 <a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0225.gif" border="0" alt="linha-divisoria-imagem-animada-0225" /></a>
