@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 ✨ I'm working with Angular, Nest.js, TypeORM, Botpress, Postgres, Redis, and much more...
 📖 Currently learning: RabbitMq, Machine Learning
 
-<div align="center">
-<a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0225.gif" border="0" alt="linha-divisoria-imagem-animada-0225" /></a>
-</div>
-
 <div width="100%" align="center">
 <img width="40%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelisaramos&layout=compact&langs_count=7&theme=dracula"/>
 <img width="45%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anaelisaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
