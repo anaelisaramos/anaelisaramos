@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 ### About me
 - 🎓 I'm studying Software Engineering at Universidade de Brasília.
-- 🧬 Bioinformatics is my current fascination
+- ✅ My current academic focus is on Machine Learning and Software Requirements.
 - 🤍 I love cheesecake!
 
 ### What I am doing
 🌱 I code daily in HTML, CSS, JavaScript, TypeScript, and SQL.
 ✨ I'm working with Angular, Nest.js, TypeORM, Botpress, Postgres, Redis, and much more...
-📖 Currently learning: RabbitMq, Vue.js, Vite.js, Django.py
+📖 Currently learning: RabbitMq, Machine Learning
 
 <div align="center">
 <a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0225.gif" border="0" alt="linha-divisoria-imagem-animada-0225" /></a>
