@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/anaelisaramos/anaelisaramos/blob/main/octocat-1692846386044.png" width=220px/>
-
 ## Hello, world! I'm Ana Elisa Ramos. 👩‍💻
 Welcome to my world.🌍 Here, we are in _constant evolution!_ 
 
