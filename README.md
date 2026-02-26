@@ -23,14 +23,10 @@ Here are some ideas to get you started:
 - 🤍 I love cheesecake!
 
 ### What I am doing
-🌱 I code daily in HTML, CSS, JavaScript, TypeScript, and SQL.
-✨ I'm working with Angular, Nest.js, TypeORM, Botpress, Postgres, Redis, and much more...
+🌱 I code daily in HTML, CSS, JavaScript, TypeScript, and SQL. <br/>
+✨ I'm working with Angular, Nest.js, TypeORM, Botpress, Postgres, Redis, and much more... <br/>
 📖 Currently learning: RabbitMq, Machine Learning
 
-<div width="100%" align="center">
-<img width="40%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelisaramos&layout=compact&langs_count=7&theme=dracula"/>
-<img width="45%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anaelisaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
     
 
 
