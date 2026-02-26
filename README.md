@@ -1,4 +1,4 @@
-## Hello, world! I'm Ana 👩‍💻
+## Hello, world! I'm Ana 
 Welcome to my world. 🌍 Here, we are in _constant evolution!_ 
 
 <!--
