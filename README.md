@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-- 📚 I'm learning Clojure!
 - 🎓 I'm studying Software Engineering at Universidade de Brasília.
 - ✅ My current academic focus is on Machine Learning and Software Requirements.
 - 🤍 I love cheesecake!
